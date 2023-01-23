@@ -3,9 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-li a{
-    color: #707070;
-}
-.nav-btn{
+.leagal-color{
     background: #B68C5A;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
