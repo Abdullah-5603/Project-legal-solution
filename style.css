@@ -3,28 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
-.banner-container {
+.banner{
     width: 100%;
-    height: 600px;
     background-image: url(./images/Rectangle\ 4.png);
-    background-position: relative;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+    height: 80vh;
 }
-.leagal-color{
-    background: #B68C5A;
+.btn-legal-color {
+    background-color: #B68C5A;
 }
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
 .carousel-img{
     height: 500px;
     width: 100%;
 }
-.email{
-    width: 300px;
-}
+
